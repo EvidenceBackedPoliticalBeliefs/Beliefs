@@ -65,7 +65,7 @@ These two layers of moral heuristics are not chosen by you. You didn't choose wh
 The fact that these are natural to each person does not mean that they infer any sort of correctness. They simply *are* what each person has as a foundation to their moral calculation algorithm.[^12]
 
 ## Post-hoc Rationalisation
-The challenging part for someone attempting to deploy these natural heuristics is that they are usually tacit, and replete with logical fallacies and contradictions. These often lead people to display blatant hypocrisy when pressed during debates.
+The challenging part for someone attempting to deploy these natural heuristics is that they are usually tacit, and replete with logical fallacies and contradictions. This often lead people to display blatant hypocrisy when pressed during debates.
 
 That is because the outputs of the moral algorithm are then processed through our brains to *justify* our moral decisions - whether they are logical or not. [^2]
 
