@@ -75,7 +75,7 @@ For most people this is the full and complete content of their algorithm. My goa
 
 To my knowledge the closest we can come to a scientific understanding of morality is the framework that Sam Harris lays out in [The Moral Landscape](https://en.wikipedia.org/wiki/The_Moral_Landscape). 
 
-In my mind this framework provides a way of understanding the moral impact at the lowest level of a single person's action, all the way to the most grand and sweeping actions of nation states. 
+In my mind, this framework provides a way of understanding the moral impact at the lowest level of a single person's action, all the way to the most grand and sweeping actions of nation states. 
 
 I also believe that it is capable of encapsulating all other concepts of morality (religion, values, culture) in an abstract sense, by considering them instruments to facilitate reaching a higher peak on the moral landscape when operated through the illogical, biological function of the human mind.
 
@@ -105,9 +105,9 @@ Below are some common concerns about the above basis for morality that I have se
 
 ### What if a genocide for one group produces greater outcomes for another group?
 
-It is very hard to imagine a scenario where the genocide of a people could be outweighed by the positive improvement of others.
+It is very hard to imagine a scenario where the negative outcome of the genocide of a people could be outweighed by the positive improvement of others.
 
-Given that our goal is to improve the positive experience for the greatest number of humans, genocide would be very hard to justify. Hard but not impossible.
+Given that our goal is to derive the positive most likely positive outcome for the greatest number of humans, genocide would be very hard to justify. Hard but not impossible.
 
 Looking at an example that is less tied to emotion and human history, it becomes clear that we make these moral calculations all the time.
 
@@ -126,28 +126,28 @@ These types of moral calculations are all too easy for us to do when the targets
 #### War
 Now if we shift back to humans, we see that we already sanction murder on a mass scale during exigent circumstances. We routinely kill many people in wars, including civilians, because we have determined it to be the least morally negative act.
 
-The idea that rational moral calculation, necessarily leading to a slippery slope, that ends in genocide is not borne out by reality. The fact we already do these calculations on a frequent basis provides us the experimental evidence we need.
+The idea that rational moral calculation, necessarily leads to a slippery slope that eventually ends in genocide is not borne out by reality. The fact we already do these calculations on a frequent basis provides us the experimental evidence we need to dismiss this. (Let alone the alternative is *irrational* moral calculation?)
 
 War necessitates eradication of the opposition's army, if your country is being invaded you will find very quickly that you're suddenly OK with mass killing. If an entire population fights tooth and nail to the very end, then you will likely carry out a genocide whether you like it or not.
 
 When people often discuss genocide they are usually subtly implying *arbitrary* genocide which would have no moral foundation under this framework.
 
-#### Police
+#### Murder
 
-On a smaller scale we also come to moral conclusions about *murder* all the time. A terrorist hijacks a plane and intends to fly it into a building. 
+On a smaller scale, we also come to moral conclusions about *murder* all the time. A terrorist hijacks a plane and intends to fly it into a building. 
 
 Is it moral to execute the terrorist if that is the only option at hand? Of course it is.
 
 This also aligns easily with our evolved moral heuristics which is why most people do not have a problem with the above conclusion. 
 
-It is also likely moral to shoot the plane out of the sky killing all passengers onboard for the purposes of saving thousands outside the plane.
+It is also likely the most moral decision to shoot the plane out of the sky killing all passengers onboard, for the purposes of saving thousands outside the plane. This act does not *feel* as obviously morally correct, through the lens of our evolved moral heuristics, because mechanisms of mass murder did not exist when our brains evolved.
 
 ### This feels too cold
-Any feeling you have that you cannot put into a cogent logical argument, is likely your inbuilt, evolved moral heuristics kicking in. 
+Any feeling that you cannot put into a cogent logical argument, is likely your inbuilt, evolved moral heuristics kicking in.
 
-These have evolved to allow you to negotiate life as a hunter-gatherer, occasionally encountering other humans on your travels. Essentially you are the product of a system that operated in a world far simpler and more predictable than the one we live in now.
+These have evolved to allow you to negotiate life as a hunter-gatherer, occasionally encountering other humans on your travels. You're the product of a system that operated in a world far simpler and more predictable than the one we live in now.
 
-We have to work with the final product of evolution. This means that we do have to take into consideration the psychological impact of any moral choice we decide to make. 
+We have to work with the final product of evolution. This means that we do have to take into consideration the psychological impact of any moral choice we decide to make.
 
 For example, in the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem) the number of dead are the same for two outcomes. If we use the fat man to stop the train or if we use the level to switch the track. But psychologically, our evolved moral heuristics kick in and tell us that it is wrong to *use* a human to stop the train.
 
@@ -158,9 +158,10 @@ Any scenario you can envision, that you think doesn't fit into this moral framew
 
 For example if you think that this would lead to harvesting the organs from the poor to keep many more people alive, you are forgetting the negative psychological impact on the vast majority of the population upon hearing of such a project. **This is a negative moral outcome**. 
 
-Consequences are not just "total lives saved" like maximising a high score in some game. That is overly simplistic. The very fact you are concerned about *\[insert thing here\]* should give you a clue as to the psychological impact that would go into the moral calculation.
+Consequences are not just "total lives saved", like maximising a high score in a game. That is overly simplistic. The very fact you are concerned about *\[insert thing here\]* should give you a clue as to the psychological impact that would go into the moral calculation.
 
 ### But you don't do X, aren't you a hypocrite?
+
 I see this argument many times online, that because someone states that a specific behaviour is morally positive, they *must* necessarily adhere to such a behaviour or they do not truly believe their position.
 
 This is an [ad-hominem fallacy](https://en.wikipedia.org/wiki/Ad_hominem) which can be dismissed fairly easily. 
@@ -175,7 +176,7 @@ The retort is:
 
 At no point did the doctor claim he never does anything detrimental to his own health. He simply stated a fact.
 
-Just because the human mind is not a clockwork hyper-rational machine, capable of following the precisely optimal outcome for itself, every time, on demand, doesn't mean that there are discrete actions that are better than others.
+Just because the human mind is not a clockwork hyper-rational machine, capable of following the precisely optimal outcome for itself, every time, on demand, doesn't mean that there aren't discrete actions that are better than others.
 
 Have you ever been on a diet? Are you a hypocrite for not being able to follow through? or are you a flawed human like everyone else. It doesn't change the *fact* that eating less food causes weight loss.
 
@@ -187,18 +188,18 @@ A belief or collection of related political beliefs that can change behaviours i
 
 **Examples** *(just illustrative, not endorsements)*
 - I believe that increasing corporation tax to 36% will lead to a net increase in government revenue 
-- I believe that if we increase immigration to 1% of the population per year, the following metrics will improve: GDP, happiness index, disposable income per capita.
+- I believe that if we increase immigration to 1% of the population per year, the following metrics will improve: GDP, happiness index, disposable income per capita
 - I believe that regardless of biological sex, all people should be allowed in: female locker rooms, female hotel rooms, female hostels, rape crisis centres, etc
-- I believe that racial segregation leads to a reduction in the overall happiness in society.
+- I believe that racial segregation leads to a reduction in the overall happiness in society
 - I believe that sex segregated schools leads to higher scores and employment outcomes for students
 
-Note that each of these hypotheses has either an explicit testable hypothesis or an implicit moral judgement. The moral judgement implied will always be that applying the policy will result in a net positive (or negative) moral outcome for society.
+Note that each of these hypotheses has either an explicit falsifiable prediction or an implicit moral prediction. The moral prediction will always be that applying the policy will result in a net positive moral outcome for society.
 
 The hypothesis must state the cause of action by which the outcome will be fulfilled. For example:
 
 Increasing corporation tax mathematically will increase tax revenues due to businesses being forced by law to pay more tax.
 
-While naive - this is a complete hypothesis with falsifiable outcomes. We might look to countries that have increased corporation rates to these levels to determine the likelihood that the political opinion is valid. We might look at the science of economics to understand the cause and effect relationships of taxation.
+While naive - this is a complete hypothesis with falsifiable outcomes. We might look to countries that have increased corporation rates to these levels to determine the likelihood that the political opinion is valid. We might look at the science of economics to understand the cause and effect relationships of taxation (e.g. the [Laffer Curve](https://en.wikipedia.org/wiki/Laffer_curve)).
 
 ### Hypothesis vs platitudes
 A platitude is something that someone says in order to [virtue signal](https://en.wikipedia.org/wiki/Virtue_signalling), but conveys no actionable hypothesis that can be tested or have any effect on the real world. There is no place for platitudes in this repository.
@@ -224,14 +225,15 @@ Evidence in support of, and against, can come in many forms, it can be in the fo
 - Peer-reviewed studies in economics, sociology, political science, public health, etc.[^9]
 - Constitutions, laws, court rulings
 - Moral and ethical reasoning, deductive reasoning 
-- Polling, elections, referenda[^9]
+- Polling, elections, referenda[^11]
 
 Weaker sources of evidence which can be used with care
-- Investigative reporting 
+
+- Investigative reporting [^13]
 - Opinions of specialists, professionals, and scholars[^10] (see footnote)
 
 # Contributing
-I encourage others to contribute to this repository if they believe I have made an error, or if there are additional data sources to back up a correct opinion. 
+I encourage others to contribute to this repository if they believe I have made an error, or if there are additional data sources to back up a correct opinion. Or they want to add a new opinion.
 
 I do not want AI generated slop in this repository. If I believe you have used an LLM to generate the content in a PR I will decline it. As of now, AIs cannot reason. They are too simplistic, they are also heavily biased when it comes to political opinions.
 
@@ -258,3 +260,5 @@ They are too prone to hallucinations and bias, while at the same time presenting
 [^11]: When used as evidence of democratic legitimacy, or societal preference, rather than truth or effectiveness of a specific policy. Just because a lot of people support X doesn't mean it is true. [Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum)
 
 [^12]: The brain wiring that allowed us to reach this stage of human development through evolution are not necessarily (or even likely) to be the wiring that lead to a perfect moral compass. In fact the universal evolutionary moral intuitions are often self-contradictory when tested. See [Naturalistic fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy).
+
+[^13]: When sources are listed or documentary proof is available, investigative journalism may be used, however anonymous sources and lack of concrete proof should necessarily bar the source from being used. Unless the claim being made is not one of finding the truth of the matter but one of a tangential issue. For example public interest, or hysteria at the time.
