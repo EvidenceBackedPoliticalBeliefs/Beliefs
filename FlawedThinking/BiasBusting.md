@@ -1,0 +1,166 @@
+# Bias Busting
+Given the brain is so loaded with cognitive biases and so easily influenced by logical fallacies, we need a set of techniques that we can use to help highlight these when evaluating moral arguments. I have assembled a list of techniques that I try to use to break free from the prison of my own biological mind. They are merely tools to provoke thought, and are situationally dependent.
+
+## Reacting emotionally
+ Do I feel an emotional reaction in response to hearing an opinion, or policy suggestion. An example of the feeling you need to look for is the feeling you might get by reading something like 
+ 
+ > All black people should be enslaved
+ 
+ It's a kind of moral outrage, or righteous indignation. This may be a morally correct response, but this emotional response is almost certainly going to cloud your critical thinking ability.
+
+ You are allowed to entertain an idea, no matter how outlandish or morally repugnant it seems at first glance. Your mind will not be polluted by the mere consideration of the idea. Try giving it an hour before replying and locking in your course of action. Give yourself time to calm down and process the thoughts.
+ 
+ Just remember there were societies where it was considered normal to sacrifice children to the rain gods. If you think you couldn't be morally confused about something, you have to remember your brain is made of the same stuff theirs was.
+
+> “The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”
+>
+> — F. Scott Fitzgerald
+
+Imagine you were trying to convince someone else that this view was correct, what arguments would you use? ([Steel manning](https://en.wikipedia.org/wiki/Straw_man#Steelmanning))
+
+## Reductio ad absurdum (i.e. extend to the extremes)
+When you see an argument presented to you that sounds reasonable, it's a worthwhile exercise to take the argument to the extremes to see if it breaks down into [absurdity](https://en.wikipedia.org/wiki/Reductio_ad_absurdum).
+Example:
+
+> John: I believe that the impact of speech is determined by the person hearing it. A sufficient emotional reaction is enough to declare it hate speech
+>
+> Jane: What if I claim you saying "hello" to me has offended me greatly, and I would like to declare it hate speech?
+>
+> John: Well that would be silly.
+>
+> Jane: But you are the speaker, so you have no say on my emotional reaction. Any attempt to do so would be a claim that you can read minds.
+
+John, who resides in the UK, was then arrested.
+
+## Flip the identities
+If your view depends on a specific immutable characteristic of a person, flip the characteristic and see if you feel comfortable with the inverse view.
+
+> We should give women preference in hiring in male dominated industries
+>
+> We should give men preference in hiring in female dominated industries
+
+Race example:
+> We should give all black people preference in hiring
+>
+> We should give all white people preference in hiring
+
+Race example 2:
+> We should give black people a safe space away from white people
+>
+> We should give white people a safe space away from black people
+
+Allow yourself to feel the [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), and get used to identifying that feeling. Cognitive dissonance is a key indicator your position needs careful consideration.
+
+## Ad-hominem (i.e. well you are bad, so I can ignore you)
+This is probably the number one logical fallacy on the internet. Look out for these:
+
+- You're a racist
+- You're a sexist
+- You're a bigot
+- You're a fascist
+- You're a Nazi
+- You're a communist
+- You're a shill
+- You're a bot
+- You're uneducated
+- You're privileged
+- You're triggered
+- You're evil
+- You're a terrible person
+
+If you see one or more of these in one side of a debate, you're likely to see that one side is making a cogent argument and the other is unwilling to engage with it. If you feel yourself with an urge to say one of these then you may be making a logical fallacy and reacting emotionally.
+
+Some techniques to try:
+
+- Go and look up the definition of the term you intend to use and see if it applies.
+- Try to explain the argument the other person is making, to you to make sure you have actually understood it.
+- Move to a psychologically safe space where you do not face the pressures of group think or conformity.
+- Make a list of supporting and refuting arguments for the other person's point.
+
+On an online medium, scan through the comments on an "offensive" post and see if there are any opinions, that do not consist of name-calling. If there is a valid counterpoint that uses logic, someone will surely post it. If all that can be mustered in response are character assassination, it's quite possible the perpetrator has a valid argument.
+
+> “A last trick is to become personal, insulting and rude as soon as you perceive that your opponent has the upper hand. In becoming personal you leave the subject altogether, and turn your attack on the person by remarks of an offensive and spiteful character. This is a very popular trick, because everyone is able to carry it into effect.”
+> 
+> Arthur Schopenhauer, The Art of Always Being Right
+
+## Group think and conformity
+We avoid thoughts that risk leading us to a path of disagreement with a group. Some groups are more reactive to descent than others. It is common to see a member of the liberal/left side of politics be ostracised for disagreeing with one political position among all others. This isn't exclusive to the left however, it is common in religious communities to have a similar response to those who come out as atheist.
+
+All groups that consider morality to be part of their shared group identity tend to react badly to dissenting opinion. When you find yourself in this type of situation you have to be very careful because you have many stacked cognitive biases driving you to a particular conclusion.
+
+Imagine what would happen if you told your friends/family/group you have now adopted the opinion in question. Would it be negative? If so, you need to think very carefully about what exactly it is you're disagreeing with.
+
+> “Whenever you find yourself on the side of the majority, it is time to pause and reflect.” 
+> 
+> — Mark Twain
+
+## Is someone trying to control you?
+Humans naturally [react](https://en.wikipedia.org/wiki/Reactance_(psychology)) to someone trying to take away behavioural freedom from them by resisting the instructions. Think about how you feel in response to the instruction/guidance. Are you in a neutral emotional state or do you feel righteous indignation? (similar to the Reacting Emotionally above). 
+
+This is not to say your immediate response is necessarily wrong just because it's emotional. It's more a warning indicator that extra attention needs to be paid to assure you are calculating the best moral conclusion.
+
+## Are you virtue signalling?
+Are you evaluating this idea in a public forum? Is it possible you have the judgment of your peers in mind as you speak? Do you feel a sense of pride or joy when espousing your beliefs, or a sense of superiority over the person you are speaking to? 
+
+These are signs that you may be more interested in looking good than being right. You need to remove yourself from the eyes of others and privately consider the viewpoints being discussed.
+
+> “Hypocrisy is the homage vice pays to virtue.” 
+> 
+> — La Rochefoucauld
+
+## Appeal to authority
+If you see "experts say" or "science has shown" stop and ask yourself the following questions. Especially if *you* are the one saying it.
+
+1. Does the claim seem completely extraordinary or particularly inflammatory?
+2. Does the person claiming this show any actual references to which experts, or what science?
+3. Do I agree with this? Do I disagree with this?
+4. Am I dismissing this with a platitude like "Scientists change their mind all the time so you can't trust them"
+5. Am I using this to confirm a belief I already hold?
+6. Did I dismiss evidence like this for a previous paper/article/scientist when it agreed with my point? or is it just now that it doesn't agree?
+
+> “Extraordinary claims require extraordinary evidence.”
+>
+> — Carl Sagan
+
+## Are you mind reading?
+[Mind reading](https://cogbtherapy.com/cbt-blog/common-cognitive-distortions-mind-reading) is a cognitive distortion that involves ignoring someone's words and arguing with what you have deduced to be the content of their heart. Give the opposing party the benefit of the doubt. Assume for a time, that they might not, in fact, have secret mal-intent and are genuinely telling you what they believe. Be curious, ask follow-up questions. Avoid the ad hominem attack.
+
+> John: I think that race jokes are kind of funny, and we shouldn't be cancelling people over them
+>
+> Jane: You only find them funny because you internally hate [opposite race] and want them dead secretly
+>
+> John: But I like jokes about my race too?
+
+John was promptly arrested again.
+
+## Motivated reasoning
+Is it possible that no matter what evidence is presented to you, your opinion could never change? Ask yourself "What would change my mind?". If you can come up with no answer, then you are not making a rational argument, you have a [dogmatic belief](https://en.wikipedia.org/wiki/Dogma).
+
+> John: I believe the earth is flat
+>
+> Jane: What evidence would convince you that it isn't?
+>
+> John: Well any evidence you provide could easily be faked by the government. So none.
+>
+> Jane: What if we shot you into space in a rocket so you could see for yourself?
+>
+> John: I'm sure it would just be an elaborate simulator run by the government. So no.
+
+> “If you’re not willing to change your mind, you’re not really thinking.”
+>
+> — John Maynard Keynes
+
+## Moving the goal posts
+Do you find yourself asking "What about..." ([whataboutism](https://en.wikipedia.org/wiki/Whataboutism))? 
+
+Have you conceded any point during the entire interaction? If you find yourself moving from one argument to another repeatedly, it's likely you are [shifting the goalposts](https://en.wikipedia.org/wiki/Moving_the_goalposts). At some point during a debate one side should be able to concede something. 
+
+Think back, have their been any points made by your opponent that you have no answer to? Acknowledge it before moving on. Did you feel ashamed or bad for not being able to "win"? You might be debating to win rather than to attain knowledge or truth. Try to detach emotionally from the discussion.
+
+- Practice conceding points where they are valid. 
+- Agree the point being discussed at the beginning, agree the conditions by which one could prove the point valid (if applicable). 
+- Define what types of evidence you would accept before anything is presented to you.
+
+> “I may be wrong and you may be right, and by an effort, we may get nearer to the truth.”
+>
+> — Karl Popper
