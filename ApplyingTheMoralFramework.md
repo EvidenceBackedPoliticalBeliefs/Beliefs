@@ -46,7 +46,7 @@ If we look at the legal systems of any society however, we find that this is pre
 
 There is no reason to suppose that we can't do that ahead of time when talking about the likely negative and positive outcomes of policy decisions at a statistical level.
 
-# What about in \[this\] situation?
+# What about in *this* situation?
 There will always be individuals that are sufficiently harmed, that if looked at in isolation we would have the desire to change policy. These outliers have to be balanced against the positive well-being against society as a whole. 
 
 Our goal is to maximise *overall wellbeing*, and if the nature of a policy is such that it raise everyone's wellbeing collectively by the same amount then that is the ideal. 
@@ -64,6 +64,11 @@ We have intentionally reduced their wellbeing for the sake of the majority. Thes
 
 No one will argue in this situation that the needs of the many should be sacrificed to benefit this small minority. But on very similar moral arithmetic problems, people come to all sorts of bizarre conclusions. This is a testament to the power of the individual over statistics, to the evolutionary moral heuristics.
 
+## Psychological harm must be remembered
+Again it's critical to state that the psychological harm to society must be included in our moral arithmetic. There are many policies we don't adopt even though the net harm for society might go down (excluding psychological), purely because we as biological end products of evolution, cannot tolerate the outcome of that policy. E.g. harvesting organs from one to save 10.
+
+If we were a society of humanoid robots that had no sense of evolutionary morality, it is quite imaginable that one robot would joyously be sacrificed for its parts to be shared among 10 and that there would be no objective basis for calling that act immoral. We actually do this all the time in junkyards, precisely because there is no collective of cars that would suffer great psychological harm from the act.
+
 # Policy abuse
 While we don't want to be unduly bound by the smallest edge case when making generalised policy decisions, there is a class of edge cases that *must* be considered. These revolve around abuse of the system. By looking only (or mostly) in generalities we open ourselves up to the possibility of abuse by bad actors. 
 
@@ -71,7 +76,7 @@ Logically it can be predicted, that:
 
 - Given a population with some people who are selfish
 - When an avenue is provided that will allow the selfish to gain, they will take it
-- If that selfish act causes societal harm (i.e. external costs), the aggregate wellbeing of the society will have gone down.
+- If that selfish act causes societal harm (i.e. [external costs](https://en.wikipedia.org/wiki/Externality)), the aggregate wellbeing of the society will have gone down.
 - The abuse is not self limiting, it will continue until the system collapses or there is a change of policy.
 
 So given our moral framework, we must consider these edge cases when designing policy.
