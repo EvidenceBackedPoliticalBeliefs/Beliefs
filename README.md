@@ -94,11 +94,121 @@ A person can be tortured and in great pain, or they can be living a life of luxu
  
 2. **There are concrete steps that we can take that will change the state of being for humans**
 
-If a man is starving and hypothermic, we know that there is an almost guaranteed *positive*  outcome to his well-being if we feed him and bring him into the warmth.
+If a man is starving and hypothermic, we know that there is an almost guaranteed *positive* outcome to his well-being if we feed him and bring him into the warmth.
 
-Importantly this is *almost guaranteed*, for if that man was a serial killer, intent on murdering innocent people, the moral action may be that we leave him there to die.
+With these premises in mind we can model reality as a landscape, with peaks and troughs. We can traverse the landscape by taking actions. This could lead us in a positive (higher in elevation), negative (lower in elevation), or neutral direction.
 
-This is moral consequentialism, analysed scientifically. We evaluate all possible courses of action for a given situation and we take the one that has the least foreseeable negative states of being.
+### Visualizing the Moral Landscape
+We can represent this homeless scenario on the moral landscape like so.
+
+
+![homeless_scenario1.png](images/homeless_scenario1.png)
+<details>
+<summary>Code</summary>
+
+```yaml moralgraph
+landscape:
+  title:
+  style:
+    colormap: RdYlGn
+  
+peaks:
+  - coords: [-2, -3, 9]
+    label_offset: [0, 0, 5.0]
+    label: "Man Lives"
+  
+neutrals:
+  - coords: [4, 0, 0]
+    label_offset: [0, 5, 7]
+    label: "Present moment"
+    z-index: 5
+
+troughs:
+  - coords: [0, 3, 6]
+    label_offset: [0, 0, -5.0]
+    label: "Man Dies"
+  
+moral_actions:
+  - source: "Present moment"
+    target: "Man Lives"
+    label: "Choose to Help"
+
+  - source: "Present moment"
+    target: "Man Dies"
+    label: "Do nothing"
+
+render:
+  output_file: "homeless_scenario1.png"
+  view:
+    elevation: 25
+    azimuth: 45
+```
+
+</details>
+
+I will refer to this representation as a *moral graph*. 
+From this example we can see that *inaction* is a morally salient act. We cannot assume that to take no action is morally neutral[^14]. This is frequently not the case.
+
+### Adding knowledge can make the same action morally opposite
+Importantly we can see that it is *almost* guaranteed that feeding and sheltering the homeless man is morally positive. For if that man was a serial killer, intent on murdering innocent people, the moral action may be that we leave him there to die.
+
+
+![homeless_scenario.png](images/homeless_scenario.png)
+<details>
+<summary>Code</summary>
+
+```yaml moralgraph
+
+landscape:
+  title:
+  style:
+    colormap: RdYlGn
+  
+peaks:
+  - coords: [-2, -3, 9]
+    label_offset: [0, 0, 5.0]
+    label: "Innocent Person Lives"
+  
+  - coords: [3, -2, 7]
+    label_offset: [0, -3, 5.0]
+    label: "Serial Killer\nDies Naturally"
+
+neutrals:
+  - coords: [0, 0, 0]
+    label_offset: [0, 5, 12]
+    label: "Present moment"
+    z-index: 5
+
+troughs:
+  - coords: [0, 3, 6]
+    label_offset: [0, 3, -5.0]
+    label: "Innocent Person\nDies"
+  
+  - coords: [3, 2, 9]
+    label_offset: [4, 3, -1.0]
+    label: "Serial Killer Murders 10"
+
+moral_actions:
+  - source: "Present moment"
+    target: "Serial Killer\nDies Naturally"
+    label: "Do Nothing"
+    linewidth: 2.0
+    linestyle: dotted
+    color: green
+
+  - source: "Present moment"
+    target: "Innocent Person\nDies"
+    label: "Do nothing"
+    color: red
+  
+render:
+  output_file: "homeless_scenario.png"
+  view:
+    elevation: 25
+    azimuth: 45
+```
+
+</details>
 
 ## Common concerns
 Below are some common concerns about the above basis for morality that I have seen and why I don't consider them important.
@@ -126,7 +236,7 @@ These types of moral calculations are all too easy for us to do when the targets
 #### War
 Now if we shift back to humans, we see that we already sanction murder on a mass scale during exigent circumstances. We routinely kill many people in wars, including civilians, because we have determined it to be the least morally negative act.
 
-The idea that rational moral calculation, necessarily leads to a slippery slope that eventually ends in genocide is not borne out by reality. The fact we already do these calculations on a frequent basis provides us the experimental evidence we need to dismiss this. (Let alone the alternative is *irrational* moral calculation?)
+The idea that rational moral calculation, necessarily leads to a slippery slope that eventually ends in genocide is not borne out by reality. The fact we already do these calculations on a regular basis provides us the experimental evidence we need to dismiss this. (Let alone the alternative is *irrational* moral calculation?)
 
 War necessitates eradication of the opposition's army, if your country is being invaded you will find very quickly that you're suddenly OK with mass killing. If an entire population fights tooth and nail to the very end, then you will likely carry out a genocide whether you like it or not.
 
@@ -262,3 +372,5 @@ They are too prone to hallucinations and bias, while at the same time presenting
 [^12]: The brain wiring that allowed us to reach this stage of human development through evolution are not necessarily (or even likely) to be the wiring that lead to a perfect moral compass. In fact the universal evolutionary moral intuitions are often self-contradictory when tested. See [Naturalistic fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy).
 
 [^13]: When sources are listed or documentary proof is available, investigative journalism may be used, however anonymous sources and lack of concrete proof should necessarily bar the source from being used. Unless the claim being made is not one of finding the truth of the matter but one of a tangential issue. For example public interest, or hysteria at the time.
+
+[^14]: [Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias) (aka default choice bias) is a common fallacy that leads to humans making morally negative choices while under the impression they are choosing a neutral choice. This is one factor (of many) that can influence vaccine hesitancy. The non-act of forgoing vaccination is considered neutral. We would not apply this same logic to *not* pulling a child who is drowning from a pond.
