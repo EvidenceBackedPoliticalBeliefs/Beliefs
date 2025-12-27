@@ -62,7 +62,7 @@ Imagine those who are born with a neural defect. This defect causes one and only
 
 We have intentionally reduced their wellbeing for the sake of the majority. These people had no control over the fact they were born with homicidal desires. They will never go fulfilled, and will live life in a state of psychological torment.
 
-No one will argue in this situation that the needs of the many should be sacrificed to benefit this small minority. But on very similar moral arithmetic problems, people come to all sorts of bizarre conclusions. This is a testament to the power of the individual over statistics, when fed as inputs the evolutionary moral heuristics.
+No one will argue in this situation that the needs of the many should be sacrificed to benefit this small minority. But on very similar moral arithmetic problems, people come to all sorts of bizarre conclusions. This is a testament to the power of the individual over statistics, when fed as inputs to the evolutionary moral heuristics.
 
 ## Psychological harm must be remembered
 Again it's critical to state that the psychological harm to society must be included in our moral arithmetic. There are many policies we don't adopt even though the net harm for society might go down (excluding psychological), purely because we, as biological end products of evolution, cannot tolerate the outcome of that policy. E.g. harvesting organs from one to save 10.
@@ -72,7 +72,7 @@ If we were a society of humanoid robots that had no sense of evolutionary morali
 # Policy abuse
 While we don't want to be unduly bound by the smallest edge case when making generalised policy decisions, there is a class of edge cases that *must* be considered. These revolve around abuse of the system. By looking only (or mostly) in generalities we open ourselves up to the possibility of abuse by bad actors. 
 
-Logically it can be predicted, that: 
+Logically it can be predicted that: 
 
 - Given a population with some people who are selfish
 - When an avenue is provided that will allow the selfish to gain, they will take it
