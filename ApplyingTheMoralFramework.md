@@ -47,7 +47,7 @@ If we look at the legal systems of any society however, we find that this is pre
 There is no reason to suppose that we can't do that ahead of time when talking about the likely negative and positive outcomes of policy decisions at a statistical level.
 
 # What about in *this* situation?
-There will always be individuals that are sufficiently harmed, that if looked at in isolation we would have the desire to change policy. These outliers have to be balanced against the positive well-being against society as a whole. 
+There will always be individuals, sufficiently harmed by a policy - that if looked at in isolation we would have the desire to change policy. These outliers have to be balanced against the positive well-being against society as a whole. 
 
 Our goal is to maximise *overall wellbeing*, and if the nature of a policy is such that it raise everyone's wellbeing collectively by the same amount then that is the ideal. 
 
@@ -62,10 +62,10 @@ Imagine those who are born with a neural defect. This defect causes one and only
 
 We have intentionally reduced their wellbeing for the sake of the majority. These people had no control over the fact they were born with homicidal desires. They will never go fulfilled, and will live life in a state of psychological torment.
 
-No one will argue in this situation that the needs of the many should be sacrificed to benefit this small minority. But on very similar moral arithmetic problems, people come to all sorts of bizarre conclusions. This is a testament to the power of the individual over statistics, to the evolutionary moral heuristics.
+No one will argue in this situation that the needs of the many should be sacrificed to benefit this small minority. But on very similar moral arithmetic problems, people come to all sorts of bizarre conclusions. This is a testament to the power of the individual over statistics, when fed as inputs the evolutionary moral heuristics.
 
 ## Psychological harm must be remembered
-Again it's critical to state that the psychological harm to society must be included in our moral arithmetic. There are many policies we don't adopt even though the net harm for society might go down (excluding psychological), purely because we as biological end products of evolution, cannot tolerate the outcome of that policy. E.g. harvesting organs from one to save 10.
+Again it's critical to state that the psychological harm to society must be included in our moral arithmetic. There are many policies we don't adopt even though the net harm for society might go down (excluding psychological), purely because we, as biological end products of evolution, cannot tolerate the outcome of that policy. E.g. harvesting organs from one to save 10.
 
 If we were a society of humanoid robots that had no sense of evolutionary morality, it is quite imaginable that one robot would joyously be sacrificed for its parts to be shared among 10 and that there would be no objective basis for calling that act immoral. We actually do this all the time in junkyards, precisely because there is no collective of cars that would suffer great psychological harm from the act.
 
@@ -146,6 +146,6 @@ render:
 ```
 </details>
 
-We can see that by implementing this policy decision, those responsible thought they were ascending to a new peak on the landscape, they instead fell directly into a trough. It is also foreseeable that a different policy could have even more drastic outcomes, for example total ecological collapse.
+We can see that by implementing this policy decision, those responsible thought they were ascending to a new peak on the landscape. They instead fell directly into a trough. It is also foreseeable that a different policy could have even more drastic outcomes, for example total ecological collapse.
 
 [^2]: This is not necessarily the cause of all murderers choosing to murder, it is simply an example to illustrate the point.
