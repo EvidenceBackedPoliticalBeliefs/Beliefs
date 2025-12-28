@@ -1,22 +1,40 @@
 # Bias Busting
-Given the brain is so loaded with cognitive biases and so easily influenced by logical fallacies, we need a set of techniques that we can use to help highlight these when evaluating moral arguments. I have assembled a list of techniques that may be used to attempt to compensate. They are merely tools to provoke thought, and many are situationally dependent.
+Given that the brain is so loaded with cognitive biases and so easily influenced by logical fallacies, we need a set of techniques that we can use to help highlight these when evaluating moral arguments. I have assembled a list of techniques that may be used to attempt to compensate. They are merely tools to provoke thought, and many are situationally dependent.
+
+## Genetic fallacy
+You dismiss an opinion based on nothing but the source of a specific opinion. This presents itself in moral acts as well. If a politician implements a policy that by every metric is positive, and you still find yourself wanting to dismiss the policy, you may be falling for the genetic fallacy.
+
+This fallacy has many variants and is closely related to the ad hominem fallacy.
+
+Try to think of all the positions you agree with from the author. It's virtually impossible that you disagree with every single opinion that the author has. If you can't bring yourself to agree on a single point, it's likely you're being driven by emotions over reason.
+
+Imagine someone else is stating the opinion, someone you have great respect for. Does it change your view?
 
 ## Reacting emotionally
- Do I feel an emotional reaction in response to hearing an opinion, or policy suggestion. An example of the feeling you need to look for is the feeling you might get by reading something like 
+ Do I feel an emotional reaction in response to hearing an opinion, or policy suggestion? An example of the feeling you need to look for is the feeling you might get by reading something like 
  
- > All black people should be enslaved
- 
- It's a kind of moral outrage, or righteous indignation. This may be a morally correct response, but this emotional response is almost certainly going to cloud your critical thinking ability.
+ > All black people should be enslaved.
 
- You are allowed to entertain an idea, no matter how outlandish or morally repugnant it seems at first glance. Your mind will not be polluted by the mere consideration of the idea. Try giving it an hour before replying and locking in your course of action. Give yourself time to calm down and process the thoughts.
+ > The Holocaust was a good thing.
+ 
+ > Women should not be permitted to vote.
+ 
+ It's a kind of moral outrage, or righteous indignation. This may be a morally correct response, but this emotional response is almost certainly going to cloud your critical thinking abilities.
+
+ You can allow yourself to entertain an idea, no matter how outlandish or morally repugnant it seems at first glance. Your mind will not be polluted by the mere consideration of the idea.
+
+ - Try giving it an hour before replying and locking in your course of action. 
+ - Give yourself time to calm down and process the thoughts. 
+ - Play devil's advocate. What arguments could be made in favour of the position? Don't just say "none", this is never true.
+ - Try giving the argument the best possible interpretation you could. ([Steel manning](https://en.wikipedia.org/wiki/Straw_man#Steelmanning))
+
+ Even a policy that claims it would be better to intentionally blow up the Earth could be *argued* for. It's very likely the direction the argument would end up, but you won't be harmed by simply thinking about it.
  
  Just remember there were societies where it was considered normal to sacrifice children to the rain gods. If you think you couldn't be morally confused about something, you have to remember your brain is made of the same stuff theirs was.
 
 > “The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”
 >
 > — F. Scott Fitzgerald
-
-Imagine you were trying to convince someone else that this view was correct, what arguments would you use? ([Steel manning](https://en.wikipedia.org/wiki/Straw_man#Steelmanning))
 
 ## Reductio ad absurdum (i.e. extend to the extremes)
 When you see an argument presented to you that sounds reasonable, it's a worthwhile exercise to take the argument to the extremes to see if it breaks down into [absurdity](https://en.wikipedia.org/wiki/Reductio_ad_absurdum).
@@ -49,9 +67,9 @@ Race example 2:
 >
 > We should give white people a safe space away from black people
 
-Allow yourself to feel the [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), and get used to identifying that feeling. Cognitive dissonance is a key indicator your position needs careful consideration.
+Allow yourself to feel the [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), and get used to identifying that feeling. Cognitive dissonance is a key indicator your position needs careful consideration. Not necessarily that your opinion is guaranteed to be wrong, but there may be more that is worth pondering.
 
-## Ad-hominem (i.e. well you are bad, so I can ignore you)
+## Ad-hominem (i.e. you are bad, so I can ignore you)
 This is probably the number one logical [fallacy](https://en.wikipedia.org/wiki/Ad_hominem) on the internet. Look out for these:
 
 - You're a racist
@@ -66,12 +84,12 @@ This is probably the number one logical [fallacy](https://en.wikipedia.org/wiki/
 - You're privileged
 - You're a terrible person
 
-If you see one or more of these in one side of a debate, you're likely to see that one side is making a cogent argument and the other is unwilling to engage with it. If you feel yourself with an urge to say one of these then you may be making a logical fallacy and reacting emotionally.
+If you see one or more of these in one side of a debate, you're likely to see that one side is making a cogent argument and the other is unwilling to engage with it. If you feel yourself with an urge to say one of these then you may be committing a logical fallacy and reacting emotionally.
 
 Some techniques to try:
 
 - Go and look up the definition of the term you intend to use and see if it applies.
-- Try to explain the argument the other person is making, to you to make sure you have actually understood it.
+- Try to explain the argument the other person is making, to confirm you have actually understood it.
 - Make a list of supporting and refuting arguments for the other person's point.
 
 On an online medium, scan through the comments on an "offensive" post and see if there are any opinions that do not consist of name-calling. If there is a valid counterpoint that uses logic, someone will surely post it. If all that can be mustered in response are character assassination, it's quite possible the perpetrator has a valid argument.
@@ -121,10 +139,10 @@ If you see "experts say" or "science has shown" stop and ask yourself the follow
 
 Be aware that the media routinely misinterprets, exaggerates, omits, scientific information. You will often find that if you look into every headline, the "science" behind it was blown way out of proportion. 
 
-This is often done as a result of university publicity departments, clickbait, and just simple incompetence. This is also what leads people to think "scientists change their minds all the time" when what they mean is: "What I read in the media that scientists say, changes all the time".
+This is often a problem that originates in the publicity departments of universities carrying out the research. But it could simply be an attempt clickbait, or just simple incompetence. This is also what leads people to think "scientists change their minds all the time" when what they mean is: "What I read in the media that scientists say, changes all the time".
 
 ### Who even is the "Authority"?
-The mistake with appealing to authority isn't even just that the person is appealing to an authority, they are actually usually appealing to what someone else said about what an authority said. This is particularly common in science journalism.
+The mistake with appealing to authority isn't just that the person is appealing to an authority, they are actually usually appealing to what someone else said about what an authority said. This is particularly common in science journalism.
 
 #### Animal model extrapolation
 > “Red wine compound could help you live longer”
@@ -133,11 +151,7 @@ The mistake with appealing to authority isn't even just that the person is appea
 
 The longevity effects of resveratrol were first shown in **yeast** and **worms**, later in mice at doses **impossible to obtain from wine**. You will find this pattern extremely common.
 
-C. elegans. A small nematode work is used as a biological [model organism](https://en.wikipedia.org/wiki/Model_organism). Many of these "claims" by "scientists" are simply normal scientific work, testing the effects of chemicals on these worms (and other organisms). The PR departments and media machines then pump out something so far from reality it might as well be declared fiction.
-
-> “Coffee protects against cancer”
-> https://www.telegraph.co.uk/health-fitness/diet/gut-health/tim-spector-coffee-health/
-Mechanistic studies showing cancer-cell suppression were done in worms, flies, or petri dishes.
+C. elegans. A small nematode worm is used as a biological [model organism](https://en.wikipedia.org/wiki/Model_organism). Many of these "claims" by "scientists" are simply normal scientific work, testing the effects of chemicals on these worms (and other organisms). The PR departments and media machines then pump out something so far from reality it might as well be considered fiction.
 
 #### Correlation does not equal causation
 Confounding variables are elements that may explain a correlation without implying causation.
@@ -146,13 +160,12 @@ Confounding variables are elements that may explain a correlation without implyi
 
 Confounding variable not controlled for: **Smoker vs Non-Smoker**
 
-What’s really happening:
 Smokers tend to drink more coffee. Once smoking is controlled for, the coffee–cancer link goes away. 
 
-Even without confounding variables, most research papers that are released do not claim any sort of causation, they are often very specific about this, even in the paper's abstract. The media will sometimes frame it "accurately" like the above, by using ambiguous language, some will flat out just get it wrong.
+Even without confounding variables, most research papers that are released do not claim any sort of causation, they are often very specific about this, even in the paper's abstract. The media will sometimes frame it "accurately" like the above by using ambiguous language. Some will flat out get it wrong.
 
 ## Are you mind reading?
-[Mind reading](https://cogbtherapy.com/cbt-blog/common-cognitive-distortions-mind-reading) is a cognitive distortion that involves ignoring someone's words and arguing with what you have imagined to be the content of their heart. Give the opposing party the benefit of the doubt. Assume for a time, that they might not, in fact, have secret mal-intent and are genuinely telling you what they believe. Be curious, ask follow-up questions. Avoid the ad hominem attack.
+[Mind reading](https://cogbtherapy.com/cbt-blog/common-cognitive-distortions-mind-reading) is a cognitive distortion that involves ignoring someone's words and arguing with what you have imagined to be the content of their heart. Give the opposing party the benefit of the doubt. Assume for a time, that they might not, in fact, have secret malintent and are genuinely telling you what they believe. Be curious, ask follow-up questions. Avoid the ad hominem attack.
 
 > John: I think that race jokes are kind of funny, and we shouldn't be cancelling people over them
 >
@@ -163,7 +176,7 @@ Even without confounding variables, most research papers that are released do no
 John was promptly arrested again.
 
 ## Motivated reasoning
-Is it possible that no matter what evidence is presented to you, your opinion could never change? Ask yourself "What would change my mind?". If you can come up with no answer, then you are not making a rational argument, you have a [dogmatic belief](https://en.wikipedia.org/wiki/Dogma).
+Is it possible that no matter what evidence is presented to you, your opinion could never change? Ask yourself "What would change my mind?". If you can come up with no answer, then you are not engaging in rational argument, you have a [dogmatic belief](https://en.wikipedia.org/wiki/Dogma).
 
 > John: I believe the earth is flat
 >
@@ -184,7 +197,7 @@ Do you find yourself asking "What about..." ([whataboutism](https://en.wikipedia
 
 Have you conceded any point during the entire interaction? If you find yourself moving from one argument to another repeatedly, it's likely you are [shifting the goalposts](https://en.wikipedia.org/wiki/Moving_the_goalposts). At some point during a debate one side should be able to concede something. 
 
-Think back, have their been any points made by your opponent that you have no answer to? Acknowledge it before moving on. Did you feel ashamed or bad for not being able to "win"? You might be debating to win rather than to attain knowledge or truth. Try to detach emotionally from the discussion.
+Think back, have there been any points made by your opponent that you have no answer to? Acknowledge it before moving on. Did you feel ashamed or bad for not being able to "win"? You might be debating to win rather than to attain knowledge or truth. Try to detach emotionally from the discussion.
 
 - Practice conceding points where they are valid. 
 - Agree the point being discussed at the beginning, agree the conditions by which one could prove the point valid (if applicable). 
@@ -193,3 +206,19 @@ Think back, have their been any points made by your opponent that you have no an
 > “I may be wrong and you may be right, and by an effort, we may get nearer to the truth.”
 >
 > — Karl Popper
+
+
+# Reductio ad Hitlerum (i.e. Hitler did this therefore it must be morally wrong)
+[Hitler](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) having done or not done something, has no bearing on if that policy is morally good or not.
+
+Here are some policies that Hitler introduced in Germany
+
+- Large-scale state infrastructure projects (e.g., highways, public works) to reduce unemployment and stimulate the economy.
+- Anti-smoking campaigns, fitness promotion, maternal health programs
+- Family benefits, pensions, employment programs[^1]
+
+Just because Hitler implemented pensions does not mean that if you want to implement pensions you are a Nazi.
+
+Evaluate why you feel the need to bring up Hitler in a rational discussion of the pros and cons of a policy decision. Do you have any non-fallacious arguments you can use?
+
+[^1]: These were racially discriminatory in the Nazi implementation, but putting that aside for the sake of argument.
