@@ -221,7 +221,7 @@ Just because Hitler implemented pensions does not mean that if you want to imple
 
 Evaluate why you feel the need to bring up Hitler in a rational discussion of the pros and cons of a policy decision. Do you have any non-fallacious arguments you can use?
 
-[^1]: These were racially discriminatory in the Nazi implementation, but putting that aside for the sake of argument.
+[^1]: These were racially discriminatory in the Nazi implementation, but that is beside the point being made here.
 
 ## False dilemma (if you're not with us, you're against us)
 Very few problems in life can be solved in one of only two ways. A [false dilemma](https://en.wikipedia.org/wiki/False_dilemma) (or false dichotomy) is when an argument is presented as:
