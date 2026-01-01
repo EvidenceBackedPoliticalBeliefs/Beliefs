@@ -20,7 +20,7 @@ This document defines the logical tags used throughout the repository to categor
 
 **Example:** "Throughout history, societies have organized themselves into hierarchical structures with systems of governance and law."
 
-Just to re-iterate, this is not the author advocated for or against the statement being made. It is as simple as looking out of your window, seeing a tree, and proclaiming "There is a tree out my window". No moral or preferential quality has been made. 
+Just to re-iterate, this is not the author advocated for or against the statement being made. It is as simple as looking out of your window, seeing a tree, and proclaiming "There is a tree outside my window". No moral or preferential argument has been made. 
 This is **not** the same as:
 
 - I like that there is a tree
@@ -30,7 +30,7 @@ This is **not** the same as:
 - I wish this was a different species of tree
 - We should make trees extinct
 
-It is important to elaborate this, because in debates I see this almost every time. A descriptive statement is not a prescriptive statement.
+It is important to elaborate this, because in debates I see this almost every time. **A descriptive statement is not a prescriptive statement.**
 
 ---
 
@@ -85,6 +85,7 @@ It is important to elaborate this, because in debates I see this almost every ti
 ### 🧠 Implicit Assumptions
 
 <a href="Argumentation.md#-implicit-assumptions" class="tag tag-implicit"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 **Purpose:** Identifies unstated assumptions, hidden premises, or background beliefs that underlie an argument but are not explicitly stated. It is often the case that we simply don't have enough time to debate every single aspect of a topic, as such we must take a shortcut by stating some implicit assumptions to be agreed upon at the start.
 
