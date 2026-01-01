@@ -6,10 +6,7 @@ Equity is a term often conflated with equality, but importantly distinct. Equity
 As always please read the [Bias Busting](https://evidencebasedpolitics.org/FlawedThinking/BiasBusting.html) guide if you have not already done so.
 
 # Definitions
-
-<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
-
-It will be beneficial to explicitly define what I am referring to in the argument.
+It will be beneficial to explicitly define what I am referring to in the arguments.
 
 ## Harm
 <a href="Argumentation.md#-implicit-assumptions" class="tag tag-implicit"></a>
@@ -18,9 +15,13 @@ Harm is defined according to the [framework](https://evidencebasedpolitics.org/R
 
 ## Merit
 
-<a href="Argumentation.md#-implicit-assumptions" class="tag tag-implicit"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
-An individual's total value to society in the form of their skills, achievements, effort, labour.
+An individual's total value to society in the form of their skills, achievements, effort, labour. 
+
+No characteristic of their involuntary identity is considered in merit (e.g. race, sex, etc). 
+
+No knowledge of their personal history is required beyond their past achievements and labours (no disabilities, no past discrimination etc).
 
 ## Equality
 
@@ -81,5 +82,5 @@ Equity has several implicit premises.
 I will argue:
 
 - The pursuit of equity is harmful to society
-- Equity policies could never be moral, even on an individual basis
+- Equity policies can never be moral, even on an individual basis
 
