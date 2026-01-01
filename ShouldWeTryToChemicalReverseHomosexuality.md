@@ -5,37 +5,70 @@ In light of the recent popular discussion around chemically transitioning childr
 
 I will be using the moral framework laid out in this repository. Namely, a harm based, consequentialist moral interpretation.
 
-## What is medicine?
-Medicine is the name we give to any substance that improves a person's subjective experience in life.
+# Argument
+My primary arguments are:
+-  If you are in favour of providing medical intervention to those with gender dysphoria, then you must logically be in favour of medical interventions for homosexuals.
+- If you are in favour of conducting medical experiments on children with gender dysphoria you must also be in favour of conducting experiments on homosexual children.
 
-### Subjectivity
-Your first thought may be that medicine is used to treat someone's *objective* symptoms not their subjective experience. This seems like it is the case, as we are so used to dealing with specific diagnoses and approved treatments for those diagnoses. However, when we start to look at individual scenarios, we see that it is indeed the subjective over the objective.
+# What is the purpose and mechanism of medicine?
+Before getting into whether we should medically treat homosexuality or gender dysphoria we need to agree on what medicine is actually used for.
+
+## Subjectivity
+Your first thought may be that medicine is used to treat someone's *objective* symptoms not their subjective experience. This seems like it's the case, as we are so used to dealing with specific diagnoses and approved treatments for those diagnoses, like a square peg in a perfectly square hole. However, when we start to look at individual scenarios, we see that it's indeed the subjective over the objective.
+
+## Pain medication
+
+> [!NOTE]
+> [📘 Descriptive](Argumentation.md#Descriptive)
 
 Let's start with pain medication. If I have a headache, I may take a painkiller to attempt to alleviate my subjective sense of head pain. I didn't go to an MRI machine and confirm that my brain is suffering some physical anomaly that caused my head pain before self prescribing paracetamol.
 
-You might think it's simply because we don't have an accurate and convenient way to detect headaches that we don't do this on a regular basis. This presumes that the cause of all headaches is a physical ailment, and as such could be detected by machine. While it's true that headaches *can* be caused by physical changes in the body or brain, this is not actually required.[^2]
+You might think it's simply because we don't have an accurate and convenient way to detect headaches, but this presumes that the cause of all headaches is a physical ailment. While it's true that headaches *can* be caused by physical changes in the body or brain, this is not actually required.[^2]
 
-### Nocebo
+## Nocebo
+
+> [!NOTE]
+> [📘 Descriptive](Argumentation.md#Descriptive) [📊 Empirical](Argumentation.md#Empirical)
+
 The [nocebo](https://en.wikipedia.org/wiki/Nocebo) effect is well demonstrated. Humans have the ability to cause a subjective experience of pain (or other negative symptoms) simply through mere thought alone. An interesting instance of this occurred as a response to a newly erected 5G tower. Residents in the local area began reporting headaches, demanding the tower be taken down. It turned out that the tower had not actually been turned on.
 
-### Placebo
-On the flip side, it is well known that the [placebo effect](https://en.wikipedia.org/wiki/Placebo) can be induced in a variety of ways. If I have a headache and I take a sugar pill, and then my headache goes away, does it mean I didn't really have a headache? No of course not. Does it mean that there was no underlying physical reason for the headache? No not necessarily, it could be that by some mechanism of the biochemistry of the brain, the headache was resolved or masked by the release of neurotransmitters or some other such capability[^1]. 
+## Placebo
+> [!NOTE] 
+> [📘 Descriptive](Argumentation.md#Descriptive) [📊 Empirical](Argumentation.md#Empirical)
 
-## The patient decides
-You might think the example of a headache is a special case, but this can be applied to all ailments. Imagine a deaf person, who for reasons of culture decides they do not want a cochlear implant. To that patient there is no treatment required, their *subjective* experience is that there is no problem to correct. Where we as outside observers would consider a critical function of their body to be malfunctioning. It's quite possible that by attempting to help the deaf person, we cause them immense harm.
+On the flip side, it is well known that the [placebo effect](https://en.wikipedia.org/wiki/Placebo) can be induced in a variety of ways. If I have a headache and I take a sugar pill, and then my headache goes away, does it mean I didn't really have a headache? No of course not. Does it mean that there was no underlying physical reason for the headache? No not necessarily, it could be that by some mechanism of the biochemistry of the brain, the headache was resolved or masked by the release of neurotransmitters or some other such capability[^1].
+
+## Patient autonomy is paramount
+
+> [!NOTE]
+> [📘 Descriptive](Argumentation.md#Descriptive) [📊 Illustrative Example]()
+
+You might think the example of a headache is a special case, but this can be applied to all ailments. Imagine a deaf person, who for reasons of culture decides they do not want a cochlear implant. To that patient there is no treatment required, their *subjective* experience is that there is no problem to correct. Where we as outside observers would consider a critical function of their body to be malfunctioning. It's quite possible that by attempting to help the deaf person, we cause them immense psychological harm.
 
 Take any ailment, and you are likely to find someone who is happier in the malfunctioning (by objective standards) state than if their body would be up to full functionality.
 
+Given what we have discussed above we must conclude that:
+> [!IMPORTANT]
+> [🧱 Premise](Argumentation.md#Premise) [🔗 Inference](Argumentation.md#Inference)
+> **The outside observer is unable to externally define what would improve any specific individual person's subjective experience of reality.**
+
 ### What about terminal illnesses?
+
+> [!NOTE]
+> [📘 Descriptive](Argumentation.md#Descriptive)
+
 It's possible that a particularly suicidal person would be grateful for their terminal illness. Their subjective experience is that their illness is the cure to their subjective suffering. A patient is permitted to refuse any and all treatment in our society. So again we see that the subjective experience wins out even in the most extreme objective circumstances.
 
 ### Suicide
+> [!NOTE]
+> [📘 Descriptive](Argumentation.md#Descriptive)
+
 We as a society generally consider a suicidal person mentally ill, to a degree that we determine the moral act is to intervene and prevent the death of the person. 
 
 Our moral calculus is that if we could resolve the mental defect causing their suicidal ideation, their long term happiness would far outweigh the cost of taking away their individual autonomy. *(For the sake of this article we will assume this is correct, but there are scenarios where this may not actually be objectively moral.)*
 
 ### What about mental illness?
-Where the mental illness does not go so far as to cause physical injury to oneself or harm to others. All mental illness is treated based on the subjective harm that illness causes. 
+Where the mental illness does not go so far as to cause physical injury to oneself or harm to others. All mental illness is treated based on the subjective harm that illness causes.
 
 If I have depression, no one will forcibly interfere in my life. It's my choice to live with depression if I choose. It's possible that I consider it part of my life's mission to struggle in order to achieve some larger purpose. It's possible that I have a belief system that prevents me from receiving mental health treatment. Furthermore, it's possible that I just don't feel like getting treatment.
 
@@ -146,9 +179,15 @@ It does not follow logically that Japan should not be permitted to define homose
 
 Logically we must also conclude that Japan would be morally coherent with western morality to conduct research on consenting adults in an effort to change their sexuality. To state otherwise would be hypocritical in relation to our acts with regard to mental illness.
 
+# Rebuttals
+## Gender is not the same as sexuality
+Proponents of medical diagnosis and treatment of children with gender dysphoria may claim that sexuality is fundamentally different to gender in some way. I actually agree with this perspective. I think it's actually far more justifiable morally to argue for medicalising sexuality than for gender. 
+
+It's arguable that sexuality has a far more intrinsic biological basis than gender. Fundamentally the specific gender norms that an individual may themselves attribute to another gender are entirely societally originated.
+
 # Scientific research
 # Gender dysphoria
-TODO
+There are many concerted efforts to conduct medical experiments on children in order to see if we are able to successfully alter a child's biological development in order to alleviate their psychological suffering.
 
 [^1]: The exact mechanism is not important here, we do not need to understand the full biological process by which the brain is able to mask pain, only that there could be such a mechanism.
 [^2]: Obviously all changes in the subjective experience of a human must be due to some physical change in the body, there is no other substance through which the human experience is transmitted. Here we are simply to say that the body could be working as effectively as could be desired in a mechanical sense, and yet a headache still presents itself.
