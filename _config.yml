@@ -1,7 +1,10 @@
-title: United Kingdom Repository
+title: Evidence Backed Political Beliefs
 description: Philosophical and ethical discussions
 baseurl: "/Beliefs"
 url: ""
+
+# Theme
+theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown

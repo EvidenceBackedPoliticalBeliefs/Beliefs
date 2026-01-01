@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ site.description }}">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    
+    <!-- Syntax Highlighting via CDN (GitHub style) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
+    
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <!-- Argumentation Tags Stylesheet -->
+    <link rel="stylesheet" href="{{ '/styles/argumentation-tags.css' | relative_url }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+                <ul class="nav-links">
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/README.html' | relative_url }}">Framework</a></li>
+                    <li><a href="{{ '/Argumentation.html' | relative_url }}">Argumentation</a></li>
+                    <li><a href="{{ '/FlawedThinking/BiasBusting.html' | relative_url }}">Bias Busting</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <article class="content markdown-body">
+                {{ content }}
+            </article>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. Promoting rational discourse and evidence-based thinking.</p>
+        </div>
+    </footer>
+</body>
+</html>
