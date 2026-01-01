@@ -174,26 +174,6 @@ We would then look to treat "ESD" with various treatments to stimulate tics. We 
 
 There could be classes on how to behave "normally", learning what is expected in this world and fighting their instinct only express themselves intentionally. Masking in this world would essentially mean faking tics to fit in. In the same way we coach autistic people what society expects of them and how to mask effectively.
 
-### But aren't these objective reductions in capability?
-
-<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
-
-You might try to dismiss this framing as obfuscating the fact that individuals with these conditions lack the *ability* to fit in. In other words, stating that societal norms originate in some objective basis. With this in mind it is physically impossible (without medical/psychological intervention) for those with the conditions to fit in. 
-
-This would be in contrast to societal norms defined in a preferential sense, for example as one might be through religious or historic grounds.
-
-This argument sounds appealing, but again it uses the majority state to define what *counts* as mandatory ability in order to fit in.
-
-<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
- 
- In the autistic society described above, we can imagine there are many people who would state that the inability (or preference to avoid) to be direct when communicating, was the non-autistic person lacking the *ability* to fit in.
-
-It could be that in this society you are expected to have one or more special interests, and that someone lacking a special interest suffers greatly due to missed opportunities or lack of social standing.
-
-In the Tourette's society it could be viewed that someone who does not intermittently tic, is viewed as strange. It could be that they are seen to be less honest, because they don't vocalise their thoughts spontaneously. It could be society developed in such a way that those who had the most distinctive tics were revered, and such that if you were born without them, you suffer greatly socioeconomically.
-
-In these societies we would say that those individuals were "objectively lacking capabilities". It is clear that the "objectivity" here is simply the subjective norms being so universal that they are taken to be objective.
-
 #### Colour blindness
 
 <a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
@@ -204,7 +184,7 @@ In the case of people born colour blind, had they never been told they were lack
 
 <div class="important-premise">
     <p>
-        There need not be an objective biological reality to a mental disorder, they are often predicated on the majority capability.
+        There need not be an objective biological reality to a mental disorder; they are often predicated on majority capability.
     </p>
 </div>
 
@@ -218,6 +198,38 @@ So given what we've explored so far, we can come to the following conclusions:
 - Whether a medication has any biological function is irrelevant if it improves the underlying subjective experience.
 - To lack the ability to function effectively in the way the majority prefers to function *can* be deemed a mental illness.
 - Regardless of our personal objections, we respect personal autonomy above all else even if results in death.
+
+### But aren't these objective reductions in capability?
+
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
+
+You might try to dismiss this framing as obfuscating the fact that individuals with these conditions lack the *ability* to fit in. 
+
+In other words, that societal norms originate in some objective basis.
+
+ With this in mind it's physically impossible (without medical/psychological intervention) for those with the above conditions to fit in. 
+
+This would be in contrast to societal norms defined in a preferential sense, for example as one might be through religious or historic grounds.
+
+This argument sounds appealing, but again it uses the **majority** state to define what *counts* as mandatory ability in order to fit in.
+
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+ 
+ In the autistic society described above, we can imagine there are many people who would state that the inability to be direct when communicating, was the non-autistic person lacking the *ability* to fit in.
+
+It could be that in this society you are expected to have one or more [special interests](https://www.autism.org.uk/advice-and-guidance/topics/about-autism/focused-and-dedicated-interests), and that someone lacking a special interest suffers greatly due to missed opportunities or lack of social standing.
+
+In the Tourette's society it could be viewed that someone who does not intermittently tic, is viewed as strange.
+
+It could be that they are seen to be less honest, because they don't vocalise their thoughts spontaneously. It could be society developed in such a way that those who had the most distinctive tics were revered, and such that if you were born without them, you suffer greatly socioeconomically.
+
+In these societies we would say that those individuals were "objectively lacking capabilities". It is clear that the "objectivity" here is simply the subjective norms being so universal that they are taken to be objective.
+
+<div class="important-premise">
+    <p>
+        There is no way to define an <i>objective</i> baseline set of capabilities in humans, only an average or majority set.
+    </p>
+</div>
 
 # Homosexuality
 
@@ -234,7 +246,9 @@ The culmination of science on the subject is pretty conclusive at this point, th
 
 The science also shows that sexual preference is mostly stable over time, most people don't stop being gay later in their lives, for example.[^10]
 
-For the purposes of this analysis the specifics are not important, we can safely assume that through some combination of involuntary factors, sexual preference develops. We will assume that the person involved has no choice over their sexual preference and is unable to voluntarily change it through force of will alone.
+For the purposes of this analysis the specifics are not important, we can safely assume that through some combination of involuntary factors, sexual preference develops. 
+
+We will assume that the person involved has no choice over their sexual preference and is unable to voluntarily change it through force of will alone.
 
 <div class="important-premise">
 <p>Homosexuality is partly genetic, partly environmental, but involuntary. The individual has no choice over what they are attracted to.</p>
@@ -280,7 +294,9 @@ With this in mind, it's clear that being attracted to the same sex can cause a g
 
 <a href="Argumentation.md#-inference" class="tag tag-inference"></a>
 
-By all standards that apply to other currently prescribed mental illnesses, we see that homosexuality can be modelled to have the same set of factors, deemed enough to warrant medical intervention. As far as it can be reasoned there is no objective basis to classify autism spectrum disorder a "disorder" while declaring it morally wrong to label homosexuality with the same classification.
+By all standards that apply to other currently prescribed mental illnesses, we see that homosexuality can be modelled to have the same set of factors, deemed severe enough to warrant medical intervention. 
+
+As far as it can be reasoned there is no objective basis to classify autism spectrum disorder a "disorder" while declaring it morally wrong to label homosexuality with the same classification.
 
 <div class="important-conclusion">
     <p>It can be morally valid to label homosexuality a mental disorder, depending only on the society one is in.</p>
@@ -317,10 +333,6 @@ You might think that this entire discussion is a moot point because we have no m
 
 It has long been considered immoral to carry out experiments in changing orientation. No significant scientific research has been carried out since the 1970s. This has the makings of a self-fulfilling prophecy.
 
-<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
-
-In addition, there are many conditions we simply have no viable treatments for, yet we still recognise them as disorders. E.g. Alzheimer's disease, many diagnosable personality disorders.
-
 The [argument from ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance) - "since we have not been able to find a method to change sexuality effectively, one must not exist" - is even more preposterous given that research into the topic is effectively banned.
 
 - Canada Criminal Code amendment (Bill C-4, 2021) No research exemption. Applies regardless of consent.
@@ -330,6 +342,10 @@ The [argument from ignorance](https://en.wikipedia.org/wiki/Argument_from_ignora
 - United Kingdom - professional bans NHS, GMC, BPS prohibit practitioners from engaging in conversion therapy
 
 To state that the science shows there is no way to change a person's sexual preferences is misleading at best.
+
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+
+In addition, there are many conditions we simply have no viable treatments for, yet we still recognise them as disorders. E.g. Alzheimer's disease, many diagnosable personality disorders.
 
 <div class="important-premise">
 <p>
@@ -369,35 +385,28 @@ This standard is overcome in the case a reasonable adult, with parental/carer re
 
 This is the reasoning being used to justify experimenting on chemically (irreversibly [^12][^13]) transitioning children to a closer approximation of the opposite sex[^14], in order to treat gender dysphoria.
 
-<div class="important-premise">
+<div class="important-conclusion">
 <p>
-Any argument that it is immoral to experiment on children to develop a treatment for a mental disorder - in this case homosexuality as defined above - must apply to gender dysphoria too.
+Any argument that it is immoral to experiment on children must apply equally to gender dysphoria as it does to homosexuality.
 </p>
 </div>
 
 # Common arguments
 ## Gender is not the same as sexuality
 
-<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
 Proponents of medical diagnosis and treatment of children with gender dysphoria may claim that sexuality is fundamentally different to gender in some way. Their argument being that these differences mean that we should chemically treat gender dysphoria, but that we should not treat sexuality.
 
-I actually think there is merit to an argument of this type, but in the inverse direction. I think it's far more justifiable morally to argue for the treatment of sexuality than for gender. 
+It's hard to get clarity on what proponents of this line of reasoning actually believe the differences are, but from what I can tell it is a subjective feeling that the two are different. Appealing to one person's subjective feelings can never be a rational argument, because we can simply appeal to another person who has the opposite feeling.
 
-<a href="Argumentation.md#-inference" class="tag tag-inference"></a>
+## Gender is part of someone's identity
 
-It's arguable that sexuality has a far more intrinsic biological basis than gender, and that we are more likely, as a result, to have the chance of changing it through chemical means. Fundamentally the specific gender norms that an individual may themselves attribute to another gender are entirely societally originated.
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
-<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
-<a href="Argumentation.md#-empirical" class="tag tag-empirical"></a>
+A common distinction made, is that gender is part of your **identity** whereas sexuality is not. Again this is just an arbitrary redefining of the word "identity". For many, sexuality is a key part of their identity, for many it is not.
 
-There are physiological effects of sexuality that are clearly measurable and demonstrable
-
-- Genital arousal patterns
-- Neural activation patterns
-- Autonomic nervous system responses
-
-These physiological effects are also present cross-culturally and cross-historical, which indicate they are real biological responses in response to the sexuality.
+It also hides the implicit axiom that we must never change an attribute of someone's identity for some unspecified reason. When we do this all the time through psychological interventions. Even if they explicitly ask for that part of their "identity" to be changed.
 
 ## Transgender individuals want to change, homosexuals don't
 
