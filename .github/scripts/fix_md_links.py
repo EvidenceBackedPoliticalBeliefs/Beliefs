@@ -9,14 +9,14 @@ from pathlib import Path
 
 
 def fix_links_in_file(file_path):
-    """Replace .md links with .html and add /Beliefs/ base URL prefix."""
+    """Replace .md links with .html and add / base URL prefix."""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
     original_content = content
     
     def process_url(url):
-        """Process a URL to replace .md with .html and add /Beliefs/ prefix."""
+        """Process a URL to replace .md with .html and add / prefix."""
         # Skip external links (http://, https://, mailto:, etc.)
         if re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', url):
             return url
@@ -34,16 +34,6 @@ def fix_links_in_file(file_path):
         # Replace .md with .html
         if url.endswith('.md'):
             url = url[:-3] + '.html'
-        
-        # Add /Beliefs/ prefix to .html links
-        if '.html' in url:
-            if url.startswith('/'):
-                # Absolute path - add /Beliefs if not present
-                if not url.startswith('/Beliefs/'):
-                    url = '/Beliefs' + url
-            else:
-                # Relative path - make it absolute with /Beliefs
-                url = '/Beliefs/' + url
         
         return url + anchor
     
