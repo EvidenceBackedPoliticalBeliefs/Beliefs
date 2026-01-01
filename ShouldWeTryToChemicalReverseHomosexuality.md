@@ -16,7 +16,7 @@ My primary arguments are:
 - Any moral objections to conducting medical experiments on homosexual children must also apply to children with gender dysphoria[^4]
 
 ## Moral basis
-<a href="#-implicit-assumptions" class="tag tag-implicit"></a>
+<a href="Argumentation.md#-implicit-assumptions" class="tag tag-implicit"></a>
 
 I will be using the moral framework laid out in [this repository](README.md). Namely, a harm based, consequentiality moral interpretation. 
 
@@ -24,7 +24,7 @@ This is often what people *think* they mean when they think of their morality, w
 
 ## Scope
 
-<a href="#-implicit-assumptions" class="tag tag-implicit"></a>
+<a href="Argumentation.md#-implicit-assumptions" class="tag tag-implicit"></a>
 
 I will assume for the purposes of this argument, that gender dysphoria is a diagnosable disorder (as clarified below), and that it can be effectively diagnosed in children. 
 
