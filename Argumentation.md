@@ -74,13 +74,16 @@ This document defines the logical tags used throughout the repository to categor
 
 <a href="Argumentation.md#-implicit-assumptions" class="tag tag-implicit"></a>
 
-**Purpose:** Identifies unstated assumptions, hidden premises, or background beliefs that underlie an argument but are not explicitly stated.
+**Purpose:** Identifies unstated assumptions, hidden premises, or background beliefs that underlie an argument but are not explicitly stated. It is often the case that we simply don't have enough time to debate every single aspect of a topic, as such we must take a shortcut by stating some implicit assumptions to be agreed upon at the start.
+
+It is not necessary to state every single layer down to the epistemology of human existence. Only enough to try to ward off obvious and distracting [whataboutisms](https://en.wikipedia.org/wiki/Whataboutism)
 
 **Characteristics:**
 - Highlights assumptions that the argument depends on but doesn't explicitly state
 - Points to cultural, philosophical, or contextual presuppositions
 - May reveal potential weaknesses or areas for challenge in an argument
 - Often represents commonly held beliefs that the author takes for granted
+- *Does not necessarily mean the author endorses or supports the assumption*
 
 **Example:** An argument about justice might implicitly assume that humans have free will, or that equality of outcome is morally superior to equality of opportunity.
 

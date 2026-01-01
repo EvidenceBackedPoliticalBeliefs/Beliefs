@@ -1,11 +1,10 @@
 title: United Kingdom Repository
 description: Philosophical and ethical discussions
-baseurl: ""
+baseurl: "/Beliefs"
 url: ""
 
 # Build settings
 markdown: kramdown
-theme: minima
 
 # Include and exclude files
 include:
@@ -27,15 +26,7 @@ exclude:
   - Gemfile.lock
   - vendor
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
 # Kramdown settings
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
-# Collections (if needed in future)
-collections_dir: .

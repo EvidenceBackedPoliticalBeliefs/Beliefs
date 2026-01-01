@@ -6,6 +6,7 @@ This script:
 2. Generates moral landscape images using the YAML configuration
 3. Inserts markdown image tags after the YAML block (outside hidden divs)
 4. Uses the output_file as a unique identifier to avoid duplicate image tags
+5. Uses hash files to track YAML changes and avoid unnecessary regeneration
 """
 
 import os
@@ -13,6 +14,7 @@ import re
 import sys
 import argparse
 import threading
+import hashlib
 from pathlib import Path
 from typing import List, Tuple, Optional, Set
 import yaml
@@ -472,7 +474,73 @@ class MoralLandscapeProcessor:
             error_msg = "YAML schema validation failed:\n" + "\n".join(f"  - {error}" for error in errors)
             raise ValueError(error_msg)
     
-    def generate_landscape_image(self, config: dict) -> Optional[str]:
+    def calculate_yaml_hash(self, yaml_content: str) -> str:
+        """
+        Calculate SHA256 hash of YAML content.
+        
+        Args:
+            yaml_content: YAML string
+            
+        Returns:
+            Hex string of the hash
+        """
+        return hashlib.sha256(yaml_content.encode('utf-8')).hexdigest()
+    
+    def get_hash_file_path(self, output_file: str) -> Path:
+        """
+        Get the path to the hash file for a given output file.
+        
+        Args:
+            output_file: Name of the output image file
+            
+        Returns:
+            Path to the hash file
+        """
+        base_name = Path(output_file).stem
+        return self.images_dir / f"{base_name}.hash"
+    
+    def should_regenerate_image(self, yaml_content: str, output_file: str) -> bool:
+        """
+        Check if image needs to be regenerated based on YAML hash.
+        
+        Args:
+            yaml_content: YAML configuration string
+            output_file: Name of the output image file
+            
+        Returns:
+            True if image should be regenerated, False otherwise
+        """
+        hash_file = self.get_hash_file_path(output_file)
+        current_hash = self.calculate_yaml_hash(yaml_content)
+        
+        # If hash file doesn't exist, regenerate
+        if not hash_file.exists():
+            return True
+        
+        # If hash file exists, compare hashes
+        try:
+            with open(hash_file, 'r', encoding='utf-8') as f:
+                stored_hash = f.read().strip()
+            return stored_hash != current_hash
+        except Exception:
+            # If we can't read the hash file, regenerate to be safe
+            return True
+    
+    def save_yaml_hash(self, yaml_content: str, output_file: str) -> None:
+        """
+        Save the hash of the YAML content to a hash file.
+        
+        Args:
+            yaml_content: YAML configuration string
+            output_file: Name of the output image file
+        """
+        hash_file = self.get_hash_file_path(output_file)
+        current_hash = self.calculate_yaml_hash(yaml_content)
+        
+        with open(hash_file, 'w', encoding='utf-8') as f:
+            f.write(current_hash)
+    
+    def generate_landscape_image(self, config: dict, yaml_content: str = None) -> Optional[str]:
         """
         Generate a moral landscape image from YAML configuration.
         
@@ -810,57 +878,84 @@ class MoralLandscapeProcessor:
             output_file = config['render']['output_file']
             print(f"  Processing landscape: {output_file}")
             
+            # Check if we need to regenerate based on YAML hash
+            needs_regeneration = self.should_regenerate_image(yaml_content, output_file)
+            
+            if not needs_regeneration:
+                print(f"  ✓ Skipping {output_file} (YAML unchanged)")
+                # Still need to check if image tag exists
+                image_tag_pattern = rf'!\[{re.escape(output_file)}\]'
+                
+                # Determine search range for existing tag
+                if details_start_pos is not None:
+                    search_start = max(0, details_start_pos - 500)
+                    search_region = content[search_start:details_start_pos]
+                else:
+                    search_region = content[end_pos:end_pos + 500]
+                
+                # If tag doesn't exist, add it without regenerating
+                if not re.search(image_tag_pattern, search_region):
+                    image_path = self.images_dir / output_file
+                    if image_path.exists():
+                        rel_path = os.path.relpath(image_path, file_path.parent)
+                        rel_path = rel_path.replace('\\', '/')
+                        image_tag = self.create_image_tag(rel_path, output_file)
+                        
+                        insert_pos = details_start_pos if details_start_pos is not None else end_pos
+                        content = content[:insert_pos] + image_tag + content[insert_pos:]
+                        modified = True
+                        print(f"  ✓ Added missing image tag for {output_file}")
+                continue
+            
+            print(f"  Regenerating {output_file} (YAML changed)")
+            
             # Check if image tag already exists
-            # Use the output_file as a unique identifier
             image_tag_pattern = rf'!\[{re.escape(output_file)}\]'
             
             # Determine search range for existing tag
-            # If inside <details>, look before details_start_pos
-            # Otherwise, look after end_pos
             if details_start_pos is not None:
-                # Look for tag before the <details> block (within 500 chars)
                 search_start = max(0, details_start_pos - 500)
                 search_region = content[search_start:details_start_pos]
             else:
-                # Look for tag after the yaml block
                 search_region = content[end_pos:end_pos + 500]
             
-            if re.search(image_tag_pattern, search_region):
-                print(f"  Image tag already exists for {output_file}, regenerating image...")
-                # Regenerate the image but don't add a new tag
-                image_path = self.generate_landscape_image(config)
-                if image_path:
-                    print(f"  ✓ Regenerated: {image_path}")
-                continue
+            tag_exists = re.search(image_tag_pattern, search_region)
             
             # Generate the image
-            image_path = self.generate_landscape_image(config)
+            image_path = self.generate_landscape_image(config, yaml_content)
             
             if not image_path:
                 print(f"  Failed to generate image for {output_file}")
                 continue
             
+            # Save YAML hash for future comparison
+            self.save_yaml_hash(yaml_content, output_file)
+            
             # Create relative path from markdown file to image
             rel_path = os.path.relpath(image_path, file_path.parent)
             rel_path = rel_path.replace('\\', '/')  # Use forward slashes for markdown
             
-            # Create image tag using output_file as alt text (identifier)
-            image_tag = self.create_image_tag(rel_path, output_file)
-            
-            # Determine where to insert the image tag
-            if details_start_pos is not None:
-                # Insert BEFORE the <details> tag
-                insert_pos = details_start_pos
+            # Only add image tag if it doesn't exist
+            if not tag_exists:
+                # Create image tag using output_file as alt text (identifier)
+                image_tag = self.create_image_tag(rel_path, output_file)
+                
+                # Determine where to insert the image tag
+                if details_start_pos is not None:
+                    # Insert BEFORE the <details> tag
+                    insert_pos = details_start_pos
+                else:
+                    # Insert AFTER the yaml block (legacy format)
+                    insert_pos = end_pos
+                
+                # Insert the image tag
+                content = content[:insert_pos] + image_tag + content[insert_pos:]
+                modified = True
+                
+                print(f"  ✓ Generated: {image_path}")
+                print(f"  ✓ Added image tag at position {insert_pos}")
             else:
-                # Insert AFTER the yaml block (legacy format)
-                insert_pos = end_pos
-            
-            # Insert the image tag
-            content = content[:insert_pos] + image_tag + content[insert_pos:]
-            modified = True
-            
-            print(f"  ✓ Generated: {image_path}")
-            print(f"  ✓ Added image tag at position {insert_pos}")
+                print(f"  ✓ Regenerated: {image_path}")
         
         # Write back if modified
         if modified:
@@ -873,13 +968,13 @@ class MoralLandscapeProcessor:
     
     def cleanup_orphaned_images(self, referenced_images: Set[str]) -> int:
         """
-        Delete images in the images directory that are not referenced by any markdown file.
+        Delete images and hash files in the images directory that are not referenced by any markdown file.
         
         Args:
             referenced_images: Set of image filenames that are referenced
             
         Returns:
-            Number of images deleted
+            Number of files deleted (images + hash files)
         """
         if not self.images_dir.exists():
             return 0
@@ -893,6 +988,27 @@ class MoralLandscapeProcessor:
             if filename not in referenced_images:
                 print(f"  Deleting orphaned image: {filename}")
                 image_file.unlink()
+                deleted_count += 1
+                
+                # Also delete associated hash file
+                hash_file = self.get_hash_file_path(filename)
+                if hash_file.exists():
+                    hash_file.unlink()
+                    deleted_count += 1
+        
+        # Clean up orphaned hash files (hash files without corresponding images)
+        for hash_file in self.images_dir.glob("*.hash"):
+            base_name = hash_file.stem
+            # Check if there's a corresponding image file
+            has_image = False
+            for ext in ['.png', '.jpg', '.jpeg', '.gif']:
+                if (self.images_dir / f"{base_name}{ext}").exists():
+                    has_image = True
+                    break
+            
+            if not has_image:
+                print(f"  Deleting orphaned hash file: {hash_file.name}")
+                hash_file.unlink()
                 deleted_count += 1
         
         return deleted_count

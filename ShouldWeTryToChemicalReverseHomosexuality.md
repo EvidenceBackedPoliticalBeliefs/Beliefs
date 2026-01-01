@@ -22,6 +22,16 @@ I will be using the moral framework laid out in [this repository](README.md). Na
 
 This is often what people *think* they mean when they think of their morality, when often they simply believe in simply their own, norm based moral superiority. I strongly suggest clarifying what *moral* means to you before continuing. 
 
+## Scope
+
+<a href="#-implicit-assumptions" class="tag tag-implicit"></a>
+
+I will assume for the purposes of this argument, that gender dysphoria is a diagnosable disorder (as clarified below), and that it can be effectively diagnosed in children. 
+
+Likewise, I will assume that homosexuality is an observed condition that affects humans, and can be effectively diagnosed in children.
+
+I will not be trying to disprove gender dysphoria is "real" or debate the validity of diagnosing children with the condition.
+
 # What is the purpose and mechanism of medicine?
 Before getting into whether we should medically treat homosexuality or gender dysphoria we need to agree on what medicine is actually used for.
 
