@@ -33,17 +33,7 @@ jobs:
         uses: actions/configure-pages@v4
       
       - name: Replace .md links with .html and add base URL
-        run: |
-          # Replace .md with .html and add base URL prefix
-          find . -name "*.md" -type f -not -path "./_site/*" -not -path "./node_modules/*" -not -path "./.github/*" -not -path "./utils/*" | while read file; do
-            # First replace .md with .html
-            sed -i 's/\(\[[^]]*\]([^):#]*\)\.md\([^)]*)\)/\1.html\2/g' "$file"
-            # Then add /Beliefs/ prefix to relative links (not starting with http, /, or #)
-            sed -i 's|\(\[[^]]*\](\)\([^/:#][^)]*\.html[^)]*)\)|\1/Beliefs/\2|g' "$file"
-            # Handle links that start with / but don't have /Beliefs yet
-            sed -i 's|\(\[[^]]*\](\)/\([^B][^)]*\.html[^)]*)\)|\1/Beliefs/\2|g' "$file"
-            sed -i 's|\(\[[^]]*\](\)/\(B[^e][^)]*\.html[^)]*)\)|\1/Beliefs/\2|g' "$file"
-          done
+        run: python3 .github/scripts/fix_md_links.py
       
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
