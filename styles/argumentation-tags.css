@@ -20,6 +20,10 @@
     content: "🔍 Descriptive";
 }
 
+.tag-descriptive::after {
+    content: "Identifies factual statements that describe reality without making value judgments. These statements focus on what 'is' rather than what 'ought to be', providing objective context and background information without expressing moral preferences or prescriptive conclusions.";
+}
+
 .tag-empirical {
     background-color: #f3e5f5;
     color: #6a1b9a;
@@ -28,6 +32,10 @@
 
 .tag-empirical::before {
     content: "📊 Empirical";
+}
+
+.tag-empirical::after {
+    content: "Highlights claims supported by scientific evidence, research findings, or measurable data. These statements are grounded in observable phenomena, can be verified through experimentation, and typically draw from peer-reviewed research or established scientific consensus.";
 }
 
 .tag-illustrative {
@@ -40,6 +48,10 @@
     content: "🖼️ Illustrative Example";
 }
 
+.tag-illustrative::after {
+    content: "Presents hypothetical scenarios, thought experiments, or specific examples that clarify abstract concepts. These examples make theoretical ideas more tangible, helping readers understand the practical implications of arguments through concrete instances.";
+}
+
 .tag-premise {
     background-color: #e8f5e9;
     color: #2e7d32;
@@ -48,6 +60,10 @@
 
 .tag-premise::before {
     content: "🧱 Premise";
+}
+
+.tag-premise::after {
+    content: "Identifies foundational statements that serve as the building blocks of an argument. These are the basic claims or assumptions that must be accepted for the argument's conclusion to follow, forming the essential groundwork for logical reasoning.";
 }
 
 .tag-inference {
@@ -60,6 +76,10 @@
     content: "🔗 Inference";
 }
 
+.tag-inference::after {
+    content: "Marks logical conclusions drawn from established premises or evidence. These statements represent the endpoint of a reasoning chain, showing what logically follows from accepting the preceding arguments, often introduced with phrases like 'therefore' or 'it follows that.'";
+}
+
 .tag-implicit {
     background-color: #fff9e6;
     color: #8b6914;
@@ -70,6 +90,10 @@
     content: "🧠 Implicit Assumptions";
 }
 
+.tag-implicit::after {
+    content: "Identifies unstated assumptions or background beliefs that underlie an argument but aren't explicitly stated. These hidden premises may reveal potential weaknesses in reasoning or reflect commonly held beliefs that the author takes for granted, without necessarily endorsing them.";
+}
+
 .tag-rebuttal {
     background-color: #ffebee;
     color: #c62828;
@@ -78,6 +102,10 @@
 
 .tag-rebuttal::before {
     content: "⚔️ Rebuttal";
+}
+
+.tag-rebuttal::after {
+    content: "Marks counterarguments that challenge previous claims or reasoning. These statements identify flaws in logic, present contradictory evidence, or offer alternative interpretations, often introduced with phrases like 'however' or 'on the contrary' to signal opposition to established arguments.";
 }
 
 /* Important Premise Callout Block */
@@ -146,4 +174,38 @@
 
 .important-conclusion strong {
     color: #38006b;
+}
+
+/* Tooltip Base Styles */
+.tag {
+    position: relative;
+}
+
+.tag::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 250px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: rgba(33, 33, 33, 0.95);
+    color: #fff;
+    text-align: center;
+    font-size: 0.85em;
+    line-height: 1.5;
+    z-index: 100;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    pointer-events: none;
+    font-weight: normal;
+    white-space: normal;
+}
+
+.tag:hover::after {
+    opacity: 1;
+    visibility: visible;
 }
