@@ -21,7 +21,7 @@
 }
 
 .tag-descriptive::after {
-    content: "Identifies factual statements that describe reality without making value judgments. These statements focus on what 'is' rather than what 'ought to be', providing objective context and background information without expressing moral preferences or prescriptive conclusions.";
+    content: "Identifies factual statements that describe reality without making value judgments. A description is not an endorsement";
 }
 
 .tag-empirical {
@@ -35,7 +35,7 @@
 }
 
 .tag-empirical::after {
-    content: "Highlights claims supported by scientific evidence, research findings, or measurable data. These statements are grounded in observable phenomena, can be verified through experimentation, and typically draw from peer-reviewed research or established scientific consensus.";
+    content: "Highlights claims supported by scientific evidence, research findings, or measurable data. Used to support an argument or descriptive statement.";
 }
 
 .tag-illustrative {
@@ -49,7 +49,7 @@
 }
 
 .tag-illustrative::after {
-    content: "Presents hypothetical scenarios, thought experiments, or specific examples that clarify abstract concepts. These examples make theoretical ideas more tangible, helping readers understand the practical implications of arguments through concrete instances.";
+    content: "Presents hypothetical scenarios, thought experiments, or specific examples that clarify abstract concepts.";
 }
 
 .tag-premise {
@@ -63,7 +63,7 @@
 }
 
 .tag-premise::after {
-    content: "Identifies foundational statements that serve as the building blocks of an argument. These are the basic claims or assumptions that must be accepted for the argument's conclusion to follow, forming the essential groundwork for logical reasoning.";
+    content: "Identifies foundational statements that serve as the building blocks of an argument. These are the basic claims that must be accepted for the argument's conclusion to follow.";
 }
 
 .tag-inference {
@@ -77,7 +77,7 @@
 }
 
 .tag-inference::after {
-    content: "Marks logical conclusions drawn from established premises or evidence. These statements represent the endpoint of a reasoning chain, showing what logically follows from accepting the preceding arguments, often introduced with phrases like 'therefore' or 'it follows that.'";
+    content: "Marks logical conclusions drawn from established premises or evidence. These statements show what logically follows from accepting the preceding arguments.";
 }
 
 .tag-implicit {
@@ -91,7 +91,7 @@
 }
 
 .tag-implicit::after {
-    content: "Identifies unstated assumptions or background beliefs that underlie an argument but aren't explicitly stated. These hidden premises may reveal potential weaknesses in reasoning or reflect commonly held beliefs that the author takes for granted, without necessarily endorsing them.";
+    content: "Identifies unstated assumptions or background beliefs that underlie an argument but aren't explicitly stated. They can be used to narrow the scope by arguing only the important points.";
 }
 
 .tag-rebuttal {
@@ -105,7 +105,7 @@
 }
 
 .tag-rebuttal::after {
-    content: "Marks counterarguments that challenge previous claims or reasoning. These statements identify flaws in logic, present contradictory evidence, or offer alternative interpretations, often introduced with phrases like 'however' or 'on the contrary' to signal opposition to established arguments.";
+    content: "Marks counterarguments that challenge previous claims, reasoning, or potential criticisms of the argument being made.";
 }
 
 /* Important Premise Callout Block */
