@@ -583,9 +583,46 @@ This generally leads to systemic discrimination of large swathes of people. This
 </div>
 
 ## Perverse incentives
-An interesting phenomenon begins to occur once you begin applying disadvantage coefficients. Everyone suddenly starts getting a lot more disadvantaged.
+An interesting phenomenon starts to occur once you begin applying disadvantage coefficients. Everyone suddenly starts getting a lot more disadvantaged. This is known as a perverse incentive. 
 
-This is known as a perverse incentive. working for merit alone is actually really hard. this is why many criminals simply choose to commit crime. If an opportunity to gain success without having to increase ones metit arises, individuals seeking to increase their own wellbeing will take it. Within meritocracy the incentives are aligned. Increase in merit by definition means an increase in societal value. If you provide another way that does not align with the goals of society, necessarily some people will maximise their own outcomes to the detriment of society.
+Working for merit alone is actually really hard. This is why many criminals simply choose to commit crime, crime is a shortcut to getting success without merit.
+
+If an opportunity to gain success without having to increase one's merit exists, individuals seeking to increase their own wellbeing will take it.
+
+Within a meritocracy however, the incentives are aligned. An increase in merit by definition means an increase in societal value.
+
+If you provide another way that does not align with the goals of society, some (eventually all) people will maximise their own success to the detriment of society.
+
+### Self evaluation
+
+Any disadvantage metric used that relies on self evaluation is open to manipulation. Any self evaluation metric relies on trusting the individual not to simply lie about their disadvantage.
+
+Lying isn't the only avenue for self evaluation to breakdown. As mentioned previously, telling people they are disadvantaged can lead them to believing they are disadvantaged. In these cases the individual is actually telling what they believe to be the truth. It's just that their truth doesn't align with reality.
+
+#### Psychology
+The science of psychology has limited ways of detecting malingering. We simply don't have the technology to read someone's mind to determine if they are telling the truth or not. 
+
+For any diagnosis of mental illness we often just rely on the patient declaring their symptoms or past behaviour, and then applying diagnostic criteria to this data. 
+
+This fundamental limitation means that anyone capable of researching a condition to a sufficient degree is capable of being falsely diagnosed with said condition.
+
+Any attempt to use mental illness as a disadvantage coefficient is doomed to cause an inflation in the number of diagnosis of that condition.
+
+#### Childhood factors
+Childhood disadvantages are also a problem. If I tell you that I had an abusive childhood, how are you going to refute my declaration?
+
+Assuming the parent has no criminal record associated with the abuse, how will you know what is real and what is not?
+
+Again using any unfalsifiable self declarations are doomed to spiral into absurd inflation in the number of claims made for this factor.
+
+#### Childhood wealth
+
+
+TODO: Link to somalian autism scandal
+
+ADHD diagnoses etc
+
+#### 
 
 example autism diagnoses ToDo
 
